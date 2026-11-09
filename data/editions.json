@@ -1,0 +1,4 @@
+{
+  "schema_version": 1,
+  "editions": [],
+  "editorial_notes": "Az archívum induláskor üres: a korábbi napi ajánlók szövegét ellenőrzés után, változtatás nélkül kell átemelni. Minden kiadás dátumhoz kötött, items tömbje a tíz rovat elemeit tartalmazza. Példa: {\"date\":\"2026-11-09\",\"items\":[{\"id\":\"2026-11-09-chanson\",\"category\":\"chanson\",\"title\":\"...\",\"french\":\"...\",\"hungarian\":\"...\",\"apple_music_url\":\"...\"}]}. A helyeknél map_note és map_url használható."
